@@ -10,7 +10,7 @@ Pokemon is a 2D open-world RPG with turn-based gameplay, where the player can ex
 
 ## Development Timeline
 
-### Week 01: Proposal
+### Week 01: Proposal/和平紀念日放假
 - 項目一 Proposal
 - 項目二
 
@@ -43,8 +43,8 @@ Pokemon is a 2D open-world RPG with turn-based gameplay, where the player can ex
 - 項目二 Basic UI display of character stats.
 
 ### Week 09: 期中 Demo
-- 項目一
-- 項目二
+- 項目一 Improoving visual effects, arts and background music
+- 項目二 
 
 ### Week 10: Adding Consumables & Small Assets
 - 項目一 Implement Inventory System (Potions, Pokéballs, Key Items).
